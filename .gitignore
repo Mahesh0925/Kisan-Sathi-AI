@@ -62,3 +62,5 @@ tmp/
 /ios/
 /android/
 capacitor.config.json.backup
+
+.lovable/
