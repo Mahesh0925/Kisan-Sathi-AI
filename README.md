@@ -5,7 +5,6 @@
 A complete agricultural ecosystem connecting **Farmers**, **Consumers**, **Veterinarians**, **Retailers**, and **Delivery Partners** — all powered by **Google Gemini AI**.
 
 🔗 **Live Demo**: [farmaline.works](https://seed-to-sip-ai.lovable.app)  
-📊 **Hackathon Presentation**: [/hackathon](https://seed-to-sip-ai.lovable.app/hackathon)
 
 ---
 
